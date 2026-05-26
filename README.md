@@ -29,11 +29,11 @@ Passionate about building modern web applications, scalable systems & AI-powered
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitsharmasvit-stack&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitsharmasvit-stack&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharmasvit-stack&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharmasvit-stack&layout=compact&theme=tokyonight" />
 </p>
 
 ---
