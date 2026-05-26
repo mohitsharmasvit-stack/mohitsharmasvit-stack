@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Mohit Sharma
 
-<!--
-**mohitsharmasvit-stack/mohitsharmasvit-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Full-Stack Developer | React.js | AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building modern web applications, scalable systems & AI-powered solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+✨ Freelance Developer  
+🚀 Building scalable web applications  
+🤖 Exploring AI integrations & smart systems  
+💡 Passionate about React.js, Firebase & APIs  
+🔥 Focused on clean UI & problem solving
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,firebase,nodejs,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitsharmasvit-stack&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharmasvit-stack&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+🔗 GitHub: https://github.com/mohitsharmasvit-stack
+
+---
+
+⭐ Always Learning • Always Building • Always Growing 🚀
